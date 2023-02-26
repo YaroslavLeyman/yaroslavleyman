@@ -10,7 +10,7 @@
 ### ***Контакты:***
 ### 📧 Почта: yaroslavleiman@yandex.ru
 ### 🌐 Telegram: [@Yaroslav_lmn](https://t.me/Yaroslav_lmn)
-### :zap: Портфолио: [http://itleiman.ru]
+### :zap: Портфолио: [http://itleiman.ru](http://itleiman.ru)
 
 ---
 
