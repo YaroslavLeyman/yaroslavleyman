@@ -31,11 +31,11 @@
 
 ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| practicum.yandex/Факультет Веб разработки                       | 08/2021 - 02/2023 |
-| freecodecamp.org/JavaScript Algorithms and Data Structures      | 10/2022 - 03/2023 |
-| gurufy.dev/React and Redux                                      | 01/2023 - 03/2023 |
+| Курсы                                                           |
+| ----------------------------------------------------------------|
+| practicum.yandex/Факультет Веб разработки                       |
+| freecodecamp.org/JavaScript Algorithms and Data Structures      |
+| gurufy.dev/React and Redux                                      |
 
 ---
 
