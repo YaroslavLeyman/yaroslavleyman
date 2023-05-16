@@ -8,7 +8,7 @@
 ---
 
 ### ***Контакты:***
-### 📧 Mail: yaroslavleiman@yandex.ru
+### 📧 Email: yaroslavleiman@yandex.ru
 ### 🌐 Telegram: [@Yaroslav_lmn](https://t.me/Yaroslav_lmn)
 ### :zap: Portfolio: [itleiman.ru](http://itleiman.ru)
 
@@ -27,9 +27,10 @@
 
 ### Backend:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
 </div>
 
 ---
