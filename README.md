@@ -1,20 +1,20 @@
 <p>
-  <h1 align="center">Привет! Меня зовут Ярослав</h1>
+  <h1 align="center">Hi! My name is Yaroslav</h1>
   <p align="center">
-  Я Web-Разработчик
+   Web-Разработчик
   </p>
 </p>
 
 ---
 
-### ***Контакты:***
+### ***Contacts:***
 ### 📧 Email: yaroslavleiman@yandex.ru
 ### 🌐 Telegram: [@Yaroslav_lmn](https://t.me/Yaroslav_lmn)
 ### :zap: Portfolio: [itleiman.ru](http://itleiman.ru)
 
 ---
 
-### 💻 Использую технологии:
+### 💻 Use technology:
 
 ### Frontend:
 <div>
@@ -34,7 +34,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
     <td>
