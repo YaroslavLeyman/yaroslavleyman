@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">Hi! My name is Yaroslav</h1>
   <p align="center">
-   Web-Разработчик
+   Frontend Developer
   </p>
 </p>
 
